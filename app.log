@@ -1,0 +1,58 @@
+2024-05-29 22:16:44,079 [tdjson.py:29]|INFO|TDLib located in D:\Work\workspace\blockchain\TG-ScrapBot-backend\venv\Lib\site-packages\pywtdlib\lib/Windows/AMD64/libtdjson.dll
+2024-05-29 22:16:44,080 [client.py:86]|INFO|Authorization started
+2024-05-29 22:17:20,175 [client.py:218]|INFO|User authorized
+2024-05-29 22:23:24,810 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 22:44:49,995 [tdjson.py:29]|INFO|TDLib located in D:\Work\workspace\blockchain\TG-ScrapBot-backend\venv\Lib\site-packages\pywtdlib\lib/Windows/AMD64/libtdjson.dll
+2024-05-29 22:44:49,995 [client.py:86]|INFO|Authorization started
+2024-05-29 22:44:50,041 [client.py:218]|INFO|User authorized
+2024-05-29 22:49:23,093 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 22:49:24,419 [tdjson.py:29]|INFO|TDLib located in D:\Work\workspace\blockchain\TG-ScrapBot-backend\venv\Lib\site-packages\pywtdlib\lib/Windows/AMD64/libtdjson.dll
+2024-05-29 22:49:24,420 [client.py:86]|INFO|Authorization started
+2024-05-29 22:49:24,426 [client.py:218]|INFO|User authorized
+2024-05-29 22:53:38,248 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 22:53:48,625 [client.py:86]|INFO|Authorization started
+2024-05-29 22:53:48,675 [client.py:218]|INFO|User authorized
+2024-05-29 22:54:37,365 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 22:54:37,383 [_internal.py:97]|INFO|[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8010
+2024-05-29 22:54:37,383 [_internal.py:97]|INFO|[33mPress CTRL+C to quit[0m
+2024-05-29 22:54:37,387 [_internal.py:97]|INFO| * Restarting with stat
+2024-05-29 22:54:37,666 [client.py:86]|INFO|Authorization started
+2024-05-29 22:54:37,672 [client.py:218]|INFO|User authorized
+2024-05-29 22:54:38,750 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 22:54:38,761 [_internal.py:97]|WARNING| * Debugger is active!
+2024-05-29 22:54:38,767 [_internal.py:97]|INFO| * Debugger PIN: 115-487-133
+2024-05-29 22:54:41,210 [client.py:86]|INFO|Authorization started
+2024-05-29 22:54:41,216 [client.py:218]|INFO|User authorized
+2024-05-29 22:57:33,636 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 22:57:33,651 [_internal.py:97]|INFO|[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8010
+2024-05-29 22:57:33,651 [_internal.py:97]|INFO|[33mPress CTRL+C to quit[0m
+2024-05-29 22:57:33,655 [_internal.py:97]|INFO| * Restarting with stat
+2024-05-29 22:57:33,936 [client.py:86]|INFO|Authorization started
+2024-05-29 22:57:33,942 [client.py:218]|INFO|User authorized
+2024-05-29 22:58:30,409 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 22:58:30,416 [_internal.py:97]|WARNING| * Debugger is active!
+2024-05-29 22:58:30,423 [_internal.py:97]|INFO| * Debugger PIN: 115-487-133
+2024-05-29 22:58:30,443 [_internal.py:97]|INFO|127.0.0.1 - - [29/May/2024 22:58:30] "[35m[1mPOST /api/chkbin HTTP/1.1[0m" 201 -
+2024-05-29 23:15:49,375 [client.py:86]|INFO|Authorization started
+2024-05-29 23:15:49,436 [client.py:218]|INFO|User authorized
+2024-05-29 23:22:08,583 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 23:22:08,607 [client.py:86]|INFO|Authorization started
+2024-05-29 23:22:08,614 [client.py:218]|INFO|User authorized
+2024-05-29 23:22:09,308 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 23:22:11,174 [tdjson.py:29]|INFO|TDLib located in D:\Work\workspace\blockchain\TG-ScrapBot-backend\venv\Lib\site-packages\pywtdlib\lib/Windows/AMD64/libtdjson.dll
+2024-05-29 23:22:11,175 [client.py:86]|INFO|Authorization started
+2024-05-29 23:22:11,181 [client.py:218]|INFO|User authorized
+2024-05-29 23:22:14,025 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 23:53:41,189 [client.py:86]|INFO|Authorization started
+2024-05-29 23:53:41,189 [client.py:93]|ERROR|b"{'@type': 'error', 'code': 400, 'message': 'Failed to parse JSON object as TDLib request: Expected Object, got String'}"
+2024-05-29 23:53:41,242 [client.py:218]|INFO|User authorized
+2024-05-29 23:53:41,878 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 23:53:41,906 [client.py:86]|INFO|Authorization started
+2024-05-29 23:53:41,913 [client.py:218]|INFO|User authorized
+2024-05-29 23:53:43,287 [client.py:258]|INFO|Execution stopped by the user
+2024-05-29 23:53:45,940 [tdjson.py:29]|INFO|TDLib located in D:\Work\workspace\blockchain\TG-ScrapBot-backend\venv\Lib\site-packages\pywtdlib\lib/Windows/AMD64/libtdjson.dll
+2024-05-29 23:53:45,941 [client.py:86]|INFO|Authorization started
+2024-05-29 23:53:45,947 [client.py:218]|INFO|User authorized
+2024-05-29 23:53:48,728 [client.py:258]|INFO|Execution stopped by the user
